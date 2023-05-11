@@ -234,11 +234,11 @@ a:hover
 }
 #polz-sogl{
 	text-align:center;
-	font-size:1.2vw;	
+	font-size:1vw;	
 }
 .questions{
 	text-align: center;
-	font-size: 1vw;
+	font-size: 0.8vw;
 }
 
 .block4{
@@ -302,8 +302,8 @@ a:hover
 footer
 {
 	color: #cccccc;
-	font-weight:300; 
-	font-size: 0.7vw;
+	font-weight:300px; 
+	font-size: 0.5vw;
 	background: #333333;
 	position: absolute;
 	width: 100%;
